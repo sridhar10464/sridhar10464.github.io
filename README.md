@@ -6,7 +6,6 @@
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/sridhar10464/sridhar10464.github.io/commits/master)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b3ad7872-90ee-4b39-b8fa-c8db3cd9202e/deploy-status)](https://app.netlify.com/sites/nsridhar10464/deploys)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://sridhar10464.github.io)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](http://linkedin.com/in/nanda-sridhar-468b68111/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
